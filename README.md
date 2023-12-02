@@ -12,7 +12,7 @@
 Created a tool that estimates data scientists' salaries as of 2023 with the aim of helping data scientists stay informed during salary negotiations.
 
 ## Sources
-All credit for Tutorial, Project Idea, and Inspiration goes to [Ken Jee](https://github.com/PlayingNumbers/ds_salary_proj) ([Ken's YouTube Tutorial])(https://youtu.be/MpF9HENQjDo?si=zJfik7fCzgT3uU9V)
+All credit for Tutorial, Project Idea, and Inspiration goes to [Ken Jee](https://github.com/PlayingNumbers/ds_salary_proj) [(Ken's YouTube Tutorial)](https://youtu.be/MpF9HENQjDo?si=zJfik7fCzgT3uU9V)
 
 ## Key Features
 - Scraped over 500 job descriptions from Glassdoor using `selenium`
@@ -21,7 +21,7 @@ All credit for Tutorial, Project Idea, and Inspiration goes to [Ken Jee](https:/
 - Built a client-facing API using `Flask`
 
 ## Other Resources
-- Glassdoor Web Scraper originally by [Vinny Sakarya](https://github.com/arapfaik/scraping-glassdoor-selenium) ([Vinny's Article on the Scraper])(https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)
+- Glassdoor Web Scraper originally by [Vinny Sakarya](https://github.com/arapfaik/scraping-glassdoor-selenium) [(Vinny's Article on the Scraper)](https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)
 - Flask Productionization Article by [GreekDataGuy](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)
 
 ## Steps to Get Predictions
