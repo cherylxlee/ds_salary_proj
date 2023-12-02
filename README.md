@@ -5,3 +5,6 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-lightgrey?style=flat&logo=numpy)
 ![SciPy](https://img.shields.io/badge/-SciPy-blue?style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=matplotlib)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-orange?style=flat&logo=scikit-learn)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+
