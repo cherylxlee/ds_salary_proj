@@ -77,7 +77,7 @@ These steps were crucial in transforming the raw scraped data into a structured 
 - The long tail of the distribution suggests that data science roles are spread across a diverse range of industries, but with many industries having relatively few positions
 
 #### Average Salary by Job Title
-![Average Salary](demo/c3.png) 
+![Average Salary](demo/c3.PNG) 
 - The table displays the average salary for different data science roles
 - Data engineers have the highest average salary at $157,000, followed by data scientists at $146,890, and analysts at $145,000
 - The remaining job titles have average salaries of $139,375, indicating entry-level or miscellaneous roles
