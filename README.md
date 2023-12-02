@@ -15,7 +15,7 @@ Created a tool that estimates data scientists' salaries as of 2023 with the aim 
 All credit for Tutorial, Project Idea, and Inspiration goes to [Ken Jee](https://github.com/PlayingNumbers/ds_salary_proj) [(Ken's YouTube Tutorial)](https://youtu.be/MpF9HENQjDo?si=zJfik7fCzgT3uU9V)
 
 ## Key Features
-- Scraped over 500 job descriptions from Glassdoor using `selenium`
+- Scraped over 500 job descriptions from Glassdoor using `Selenium`
 - Developed quantitative measures from job descriptions to assess the emphasis companies place on skills such as Python, Excel, AWS, and Spark.
 - Enhanced the performance of Linear, Lasso, and Random Forest Regressors by employing `GridSearchCV` for systematic hyperparameter tuning, helping to reach the more effective model
 - Built a client-facing API using `Flask`
