@@ -121,6 +121,7 @@ These insights can be instrumental for data science professionals seeking to nav
 - **Random Forest**: Selected due to its robustness in handling sparse data and its non-linear modeling capabilities. It is expected to capture complex patterns and interactions between features that linear models may miss
 
 The rationale behind each model choice is rooted in the unique characteristics of the data. The diverse set of models allows for a comprehensive analysis of the dataset's predictive capabilities and the identification of the most suitable modeling approach for salary prediction.
+
 In comparative analysis, the Random Forest model significantly surpassed the performance of alternative models when assessed on both the test and validation datasets.
 
 ### Productionization
